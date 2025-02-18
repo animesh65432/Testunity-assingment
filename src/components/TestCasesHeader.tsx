@@ -48,7 +48,7 @@ const TestCasesHeader: React.FC = () => {
                     <Button variant="outline">Generate Test Cases</Button>
                 </div>
                 <div>
-                    <Button className='bg-violet-600'>Create Test Cases</Button>
+                    <Button className='bg-violet-600 hover:bg-violet-800'>Create Test Cases</Button>
                 </div>
             </div>
         </div>
