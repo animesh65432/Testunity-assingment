@@ -1,7 +1,5 @@
-# My App
+# Testunity Assingment
 
-## Overview
-My App is a modern React-based application built with Vite, TypeScript, and Tailwind CSS. It leverages Radix UI components and follows best practices in frontend development.
 
 ## Features
 - Built with **React 19** and **TypeScript**
