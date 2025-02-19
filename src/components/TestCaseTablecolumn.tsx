@@ -120,7 +120,7 @@ export const columns: ColumnDef<dataTypes>[] = [
                     ))}
                     {row.original.Tags.length > 2 && (
                         <div className="text-gray-500 font-bold">
-                            +{row.original.Tags.length - 2}
+                            +4
                         </div>
                     )}
                 </div>
