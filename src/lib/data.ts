@@ -12,8 +12,8 @@ export type dataTypes = {
 
 
 export const data: dataTypes[] = [{
-    id: "TC-11",
-    Title: "Verify that users cannot set we....",
+    id: "TC-10",
+    Title: "Verify that users cannot set we are not same",
     priority: "Medium",
     Result: "Not Executed",
     status: "Ready",
@@ -26,7 +26,7 @@ export const data: dataTypes[] = [{
     ]
 }, {
     id: "TC-11",
-    Title: "Verify that users cannot set we....",
+    Title: "Verify that users cannot set weare the same.",
     priority: "Medium",
     Result: "Not Executed",
     status: "Ready",
@@ -39,7 +39,7 @@ export const data: dataTypes[] = [{
     ]
 }, {
     id: "TC-11",
-    Title: "Verify that users cannot set we....",
+    Title: "Verify that users cannot set weare the same.",
     priority: "Medium",
     Result: "Not Executed",
     status: "Ready",
@@ -52,7 +52,7 @@ export const data: dataTypes[] = [{
     ]
 }, {
     id: "TC-11",
-    Title: "Verify that users cannot set we....",
+    Title: "Verify that users cannot set weare the same.",
     priority: "Medium",
     Result: "Not Executed",
     status: "Ready",
@@ -63,4 +63,264 @@ export const data: dataTypes[] = [{
         "Product",
         "Marketing"
     ]
-},]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}, {
+    id: "TC-11",
+    Title: "Verify that users cannot set weare the same.",
+    priority: "Medium",
+    Result: "Not Executed",
+    status: "Ready",
+    Owner: "kavya",
+    Automation_status: "Not yet Automated",
+    Tags: [
+        "Design",
+        "Product",
+        "Marketing"
+    ]
+}]
